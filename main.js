@@ -1,13 +1,4 @@
-// let Grades = [100,90,80];
-// let sum = 0 ;
 
-
-
-//     for(i=0; i < Grades.length; i++){
-//         sum += Grades[i]
-        
-//     }
-//     console.log(sum)
 
 function computeGPA(grades){
 
